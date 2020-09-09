@@ -2,8 +2,10 @@
 UI Clone - Twitter Responsive
 </h1>
 
-<p align="center">esponsive Twitter UI Clone (partial) for study purposes.</p>
+<p align="center">Responsive Twitter UI Clone (partial) for study purposes.</p>
 <p align="center">Deployed <a href="https://youtube-clone-twitter.netlify.app/">here</a>.</p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dd356ff0-2f3b-47c0-8d50-aab743c4a37a/deploy-status)](https://app.netlify.com/sites/youtube-clone-twitter/deploys)
 
 <hr>
 
