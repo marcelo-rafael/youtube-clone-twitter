@@ -3,7 +3,7 @@ UI Clone - Twitter Responsive
 </h1>
 
 <p align="center">esponsive Twitter UI Clone (partial) for study purposes.</p>
-<p align="center">Deployed <a href="link produção">here</a>.</p>
+<p align="center">Deployed <a href="https://youtube-clone-twitter.netlify.app/">here</a>.</p>
 
 <hr>
 
