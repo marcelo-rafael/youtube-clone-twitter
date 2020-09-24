@@ -76,8 +76,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 -   **[Styled Components](https://github.com/styled-components/styled-components)**
 -   **[react-icons](https://react-icons.github.io/react-icons/)**
+-   **[react-sticky-box](https://www.npmjs.com/package/react-sticky-box)**
 
-> Veja o arquivo  [package.json](https://github.com/marcelo-rafael/youtube-clone-linkedin/blob/master/package.json)
+> Veja o arquivo  [package.json](https://github.com/marcelo-rafael/youtube-clone-twitter/blob/master/package.json)
 
 ---
 
