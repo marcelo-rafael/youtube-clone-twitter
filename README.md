@@ -2,29 +2,69 @@
 UI Clone - Twitter Responsive
 </h1>
 
-<p align="center">Responsive Twitter UI Clone (partial) for study purposes.</p>
-<p align="center">Deployed <a href="https://youtube-clone-twitter.netlify.app/">here</a>.</p>
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dd356ff0-2f3b-47c0-8d50-aab743c4a37a/deploy-status)](https://app.netlify.com/sites/youtube-clone-twitter/deploys)
-
 <hr>
 
+<p align="center">
+    
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   
+</p>
 
-## Techs
+<h4 align="center"> 
+	🚧  UI Clone - Twitter Responsive 🚀 em andamento 🚀 🚧
+</h4>
+<p align="center">Deployed <a href="https://youtube-clone-twitter.netlify.app/">here</a>.</p>
 
-- [x] React.js
-- [x] Styled Components
-- [x] TypeScript
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-autor">Autor</a> • 
+ <a href="#user-content--licença">Licença</a>
+</p>
 
-## Starting Dev Environment
+
+## 💻 Sobre o projeto
+
+Responsive Twitter UI Clone (partial) for study purposes.
+
+
+Projeto desenvolvido durante a **UI Clone** 
+oferecido por [Rocketseat](https://www.youtube.com/watch?v=K-8z_4xvT3o&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=6).
+
+---
+
+## 🚀 Como executar o projeto
+
+Este projeto é feito em uma parte:
+
+1. Frontend (youtube-clone-twitter folder)
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+#### 🧭 Rodando a aplicação web
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/marcelo-rafael/youtube-clone-twitter/
-```
 
-1. Run `npm install` or `yarn install`.<br />
-2. Run `yarn start` and access `http://localhost:3000`.<br />
+# Clone este repositório
+$ git clone https://github.com/marcelo-rafael/youtube-clone-twitter/
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd youtube-clone-twitter
+
+# Instale as dependências
+$ yarn install or npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start or npm run start
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+
+```
 
 ---
 
